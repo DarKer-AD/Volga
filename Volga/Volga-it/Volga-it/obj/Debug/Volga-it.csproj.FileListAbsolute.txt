@@ -1,0 +1,14 @@
+C:\Users\Herob\source\repos\Volga-it\Volga-it\bin\Debug\Volga-it.exe.config
+C:\Users\Herob\source\repos\Volga-it\Volga-it\bin\Debug\Volga-it.exe
+C:\Users\Herob\source\repos\Volga-it\Volga-it\bin\Debug\Volga-it.pdb
+C:\Users\Herob\source\repos\Volga-it\Volga-it\obj\Debug\Volga-it.csproj.AssemblyReference.cache
+C:\Users\Herob\source\repos\Volga-it\Volga-it\obj\Debug\Volga-it.csproj.CoreCompileInputs.cache
+C:\Users\Herob\source\repos\Volga-it\Volga-it\obj\Debug\Volga-it.exe
+C:\Users\Herob\source\repos\Volga-it\Volga-it\obj\Debug\Volga-it.pdb
+F:\Майер\Volga-it\Volga-it\bin\Debug\Volga-it.exe.config
+F:\Майер\Volga-it\Volga-it\bin\Debug\Volga-it.exe
+F:\Майер\Volga-it\Volga-it\bin\Debug\Volga-it.pdb
+F:\Майер\Volga-it\Volga-it\obj\Debug\Volga-it.csproj.AssemblyReference.cache
+F:\Майер\Volga-it\Volga-it\obj\Debug\Volga-it.csproj.CoreCompileInputs.cache
+F:\Майер\Volga-it\Volga-it\obj\Debug\Volga-it.exe
+F:\Майер\Volga-it\Volga-it\obj\Debug\Volga-it.pdb
